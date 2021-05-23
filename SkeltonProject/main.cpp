@@ -6,6 +6,7 @@ int WINAPI WinMain(
     LPSTR lpCmdLine,
     int nCmdShow)
 {
+    SetWindowText("2016009_Š`“c—½‰î");
     ChangeWindowMode(true);
     DxLib_Init();
     SetDrawScreen(DX_SCREEN_BACK);
